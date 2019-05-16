@@ -18,4 +18,9 @@ public class RESTAPITest {
 	{
 		System.out.println("IOSApps");	
 	}
+	@Test
+	public void AndriodApps()
+	{
+		System.out.println("AndroidApps");	
+	}
 }
