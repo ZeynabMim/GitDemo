@@ -23,4 +23,9 @@ public class RESTAPITest {
 	{
 		System.out.println("AndroidApps");	
 	}
+	@Test
+	public void AndriodAppps()
+	{
+		System.out.println("AndroidAppps");	
+	}
 }
